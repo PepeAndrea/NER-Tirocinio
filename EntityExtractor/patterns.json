@@ -1,0 +1,6274 @@
+[
+  {
+    "label": "LOC",
+    "pattern": "Alicudi"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Amiata"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Campi Flegrei"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Campi Flegrei Mar Sicilia"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Alban Hills (Colli Albani)"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Cimini Hills (monti Cimini)"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Mount Etna"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Filicudi"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Ischia"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Larderello"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Linosa"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Lipari"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Ora Caldera"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Palinuro Seamount"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Panarea"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Pantelleria"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Salina"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Stromboli"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Ustica"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Marsili"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Mount Vesuvius"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Vico"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Vulcano"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Vulcanello"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Vulsini"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Monte Vulture"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Capraia"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Ferdinandea"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Monte Lauro"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Roccamonfina"
+  },
+  {
+    "label": "LOC",
+    "pattern": "Sabatini complex"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Roma"
+      }
+    ],
+    "id": "roma"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Rome"
+      }
+    ],
+    "id": "roma"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Cosa"
+      }
+    ],
+    "id": "cosa"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Orbetello"
+      }
+    ],
+    "id": "cosa"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ariminum"
+      }
+    ],
+    "id": "ariminum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Rimini"
+      }
+    ],
+    "id": "ariminum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Belum"
+      }
+    ],
+    "id": "belum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Belluno"
+      }
+    ],
+    "id": "belum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Placentia"
+      }
+    ],
+    "id": "placentia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Piacenza"
+      }
+    ],
+    "id": "placentia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Tarraco"
+      }
+    ],
+    "id": "tarraco"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Tarragona"
+      }
+    ],
+    "id": "tarraco"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Italica"
+      }
+    ],
+    "id": "italica"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Santiponce"
+      }
+    ],
+    "id": "italica"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Modoetia"
+      }
+    ],
+    "id": "modoetia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Monza"
+      }
+    ],
+    "id": "modoetia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Salernum"
+      }
+    ],
+    "id": "salernum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Salerno"
+      }
+    ],
+    "id": "salernum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Bononia"
+      }
+    ],
+    "id": "bononia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Bologna"
+      }
+    ],
+    "id": "bononia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Forum"
+      },
+      {
+        "LOWER": "Livii"
+      }
+    ],
+    "id": "forumlivii"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Forl\u00ec"
+      }
+    ],
+    "id": "forumlivii"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Regium"
+      },
+      {
+        "LOWER": "Lepidi"
+      }
+    ],
+    "id": "regiumlepidi"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Reggio"
+      },
+      {
+        "LOWER": "Emilia"
+      }
+    ],
+    "id": "regiumlepidi"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Aquileia"
+      }
+    ],
+    "id": "aquileia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Aquileia"
+      }
+    ],
+    "id": "aquileia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Colonia"
+      },
+      {
+        "LOWER": "Patricia"
+      },
+      {
+        "LOWER": "Corduba"
+      }
+    ],
+    "id": "coloniapatriciacorduba"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "C\u00f3rdoba"
+      }
+    ],
+    "id": "coloniapatriciacorduba"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ascrivium"
+      }
+    ],
+    "id": "ascrivium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Kotor"
+      }
+    ],
+    "id": "ascrivium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Valentia"
+      },
+      {
+        "LOWER": "Edetanorum"
+      }
+    ],
+    "id": "valentiaedetanorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Valencia"
+      }
+    ],
+    "id": "valentiaedetanorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Scalabis"
+      }
+    ],
+    "id": "scalabis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Santar\u00e9m"
+      }
+    ],
+    "id": "scalabis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Villa"
+      },
+      {
+        "LOWER": "Euracini"
+      }
+    ],
+    "id": "villaeuracini"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "P\u00f3voa"
+      },
+      {
+        "LOWER": "de"
+      },
+      {
+        "LOWER": "Varzim"
+      }
+    ],
+    "id": "villaeuracini"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Palma"
+      }
+    ],
+    "id": "palma"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Palma"
+      },
+      {
+        "LOWER": "de"
+      },
+      {
+        "LOWER": "Mallorca"
+      }
+    ],
+    "id": "palma"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Colonia"
+      },
+      {
+        "LOWER": "Narbo"
+      },
+      {
+        "LOWER": "Martius"
+      }
+    ],
+    "id": "colonianarbomartius"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Narbonne"
+      }
+    ],
+    "id": "colonianarbomartius"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Massa"
+      }
+    ],
+    "id": "massa"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Massa"
+      }
+    ],
+    "id": "massa"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Pistoria"
+      }
+    ],
+    "id": "pistoria"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Pistoia"
+      }
+    ],
+    "id": "pistoria"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Confloenta"
+      }
+    ],
+    "id": "confloenta"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Durat\u00f3n"
+      }
+    ],
+    "id": "confloenta"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Gerunda"
+      }
+    ],
+    "id": "gerunda"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Girona"
+      }
+    ],
+    "id": "gerunda"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Pompaelo"
+      }
+    ],
+    "id": "pompaelo"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Pamplona"
+      }
+    ],
+    "id": "pompaelo"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Naissus"
+      }
+    ],
+    "id": "naissus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ni\u0161"
+      }
+    ],
+    "id": "naissus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Brigantium"
+      }
+    ],
+    "id": "brigantium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "A"
+      },
+      {
+        "LOWER": "Coru\u00f1a"
+      }
+    ],
+    "id": "brigantium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Florentia"
+      }
+    ],
+    "id": "florentia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Florence"
+      }
+    ],
+    "id": "florentia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Vesontio"
+      }
+    ],
+    "id": "vesontio"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Besan\u00e7on"
+      }
+    ],
+    "id": "vesontio"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lutetia"
+      },
+      {
+        "LOWER": "Parisiorum"
+      }
+    ],
+    "id": "lutetiaparisiorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Paris"
+      }
+    ],
+    "id": "lutetiaparisiorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Iulia"
+      },
+      {
+        "LOWER": "Aemona"
+      }
+    ],
+    "id": "iuliaaemona"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ljubljana"
+      }
+    ],
+    "id": "iuliaaemona"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Atuatuca"
+      },
+      {
+        "LOWER": "Tungrorum"
+      }
+    ],
+    "id": "atuatucatungrorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Tongeren"
+      }
+    ],
+    "id": "atuatucatungrorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Iulia"
+      },
+      {
+        "LOWER": "Romula"
+      },
+      {
+        "LOWER": "Hispalis"
+      }
+    ],
+    "id": "iuliaromulahispalis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Seville"
+      }
+    ],
+    "id": "iuliaromulahispalis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Augusta"
+      },
+      {
+        "LOWER": "Raurica"
+      }
+    ],
+    "id": "augustaraurica"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Augst"
+      }
+    ],
+    "id": "augustaraurica"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Noviodunum"
+      }
+    ],
+    "id": "noviodunum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Nyon"
+      }
+    ],
+    "id": "noviodunum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lugdunum"
+      }
+    ],
+    "id": "lugdunum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lyon"
+      }
+    ],
+    "id": "lugdunum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Siscia"
+      }
+    ],
+    "id": "siscia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Sisak"
+      }
+    ],
+    "id": "siscia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Marsonia"
+      }
+    ],
+    "id": "marsonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Slavonski"
+      },
+      {
+        "LOWER": "Brod"
+      }
+    ],
+    "id": "marsonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Augusta"
+      },
+      {
+        "LOWER": "Treverorum"
+      }
+    ],
+    "id": "augustatreverorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Trier"
+      }
+    ],
+    "id": "augustatreverorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Castra"
+      },
+      {
+        "LOWER": "Legionis"
+      }
+    ],
+    "id": "castralegionis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Le\u00f3n"
+      }
+    ],
+    "id": "castralegionis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Nemausus"
+      }
+    ],
+    "id": "nemausus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "N\u00eemes"
+      }
+    ],
+    "id": "nemausus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Augusta"
+      },
+      {
+        "LOWER": "Taurinorum"
+      }
+    ],
+    "id": "augustataurinorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Turin"
+      }
+    ],
+    "id": "augustataurinorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Augusta"
+      },
+      {
+        "LOWER": "Praetoria"
+      },
+      {
+        "LOWER": "Salassorum"
+      }
+    ],
+    "id": "augustapraetoriasalassorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Aosta"
+      }
+    ],
+    "id": "augustapraetoriasalassorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Emerita"
+      },
+      {
+        "LOWER": "Augusta"
+      }
+    ],
+    "id": "emeritaaugusta"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "M\u00e9rida"
+      }
+    ],
+    "id": "emeritaaugusta"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Norba"
+      },
+      {
+        "LOWER": "Caesarina"
+      }
+    ],
+    "id": "norbacaesarina"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "C\u00e1ceres"
+      }
+    ],
+    "id": "norbacaesarina"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lucus"
+      },
+      {
+        "LOWER": "Augusta"
+      }
+    ],
+    "id": "lucusaugusta"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lugo"
+      }
+    ],
+    "id": "lucusaugusta"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Caesarea"
+      }
+    ],
+    "id": "caesarea"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Caesarea"
+      }
+    ],
+    "id": "caesarea"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Bracara"
+      },
+      {
+        "LOWER": "Augusta"
+      }
+    ],
+    "id": "bracaraaugusta"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Braga"
+      }
+    ],
+    "id": "bracaraaugusta"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Curia"
+      },
+      {
+        "LOWER": "Raetorum"
+      }
+    ],
+    "id": "curiaraetorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Chur"
+      }
+    ],
+    "id": "curiaraetorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Novaesium"
+      }
+    ],
+    "id": "novaesium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Neuss"
+      }
+    ],
+    "id": "novaesium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Pons"
+      },
+      {
+        "LOWER": "Drusi"
+      }
+    ],
+    "id": "ponsdrusi"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Bolzano"
+      }
+    ],
+    "id": "ponsdrusi"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ovilava"
+      }
+    ],
+    "id": "ovilava"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Wels"
+      }
+    ],
+    "id": "ovilava"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Iuvavum"
+      }
+    ],
+    "id": "iuvavum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Salzburg"
+      }
+    ],
+    "id": "iuvavum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Augusta"
+      },
+      {
+        "LOWER": "Vindelicorum"
+      }
+    ],
+    "id": "augustavindelicorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Augsburg"
+      }
+    ],
+    "id": "augustavindelicorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Turicum"
+      }
+    ],
+    "id": "turicum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Zurich"
+      }
+    ],
+    "id": "turicum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Asturica"
+      },
+      {
+        "LOWER": "Augusta"
+      }
+    ],
+    "id": "asturicaaugusta"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Astorga"
+      }
+    ],
+    "id": "asturicaaugusta"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Borbetomagus"
+      }
+    ],
+    "id": "borbetomagus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Worms"
+      }
+    ],
+    "id": "borbetomagus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Caesaraugusta"
+      }
+    ],
+    "id": "caesaraugusta"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Zaragoza"
+      }
+    ],
+    "id": "caesaraugusta"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Sirmium"
+      }
+    ],
+    "id": "sirmium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Sremska"
+      },
+      {
+        "LOWER": "Mitrovica"
+      }
+    ],
+    "id": "sirmium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Sorviodurum"
+      }
+    ],
+    "id": "sorviodurum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Straubing"
+      }
+    ],
+    "id": "sorviodurum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Mogontiacum"
+      }
+    ],
+    "id": "mogontiacum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Mainz"
+      }
+    ],
+    "id": "mogontiacum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Argentoratum"
+      }
+    ],
+    "id": "argentoratum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Strasbourg"
+      }
+    ],
+    "id": "argentoratum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Bonna"
+      }
+    ],
+    "id": "bonna"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Bonn"
+      }
+    ],
+    "id": "bonna"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Noviomagus"
+      }
+    ],
+    "id": "noviomagus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Speyer"
+      }
+    ],
+    "id": "noviomagus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Castellum"
+      },
+      {
+        "LOWER": "apud"
+      },
+      {
+        "LOWER": "Confluentes"
+      }
+    ],
+    "id": "castellumapudconfluentes"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Koblenz"
+      }
+    ],
+    "id": "castellumapudconfluentes"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Divodurum"
+      }
+    ],
+    "id": "divodurum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Metz"
+      }
+    ],
+    "id": "divodurum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Caesaromagus"
+      }
+    ],
+    "id": "caesaromagus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Beauvais"
+      }
+    ],
+    "id": "caesaromagus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ambianum"
+      }
+    ],
+    "id": "ambianum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Amiens"
+      }
+    ],
+    "id": "ambianum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Faventia"
+      },
+      {
+        "LOWER": "Paterna"
+      },
+      {
+        "LOWER": "Barcino"
+      }
+    ],
+    "id": "faventiapaternabarcino"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Barcelona"
+      }
+    ],
+    "id": "faventiapaternabarcino"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Abila"
+      }
+    ],
+    "id": "abila"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Avila"
+      }
+    ],
+    "id": "abila"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lousonna"
+      }
+    ],
+    "id": "lousonna"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lausanne"
+      }
+    ],
+    "id": "lousonna"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ulpia"
+      },
+      {
+        "LOWER": "Noviomagus"
+      },
+      {
+        "LOWER": "Batavorum"
+      }
+    ],
+    "id": "ulpianoviomagusbatavorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Nijmegen"
+      }
+    ],
+    "id": "ulpianoviomagusbatavorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Poetovium"
+      }
+    ],
+    "id": "poetovium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ptuj"
+      }
+    ],
+    "id": "poetovium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Rigomagus"
+      }
+    ],
+    "id": "rigomagus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Remagen"
+      }
+    ],
+    "id": "rigomagus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Aquae"
+      },
+      {
+        "LOWER": "Mattiacorum"
+      }
+    ],
+    "id": "aquaemattiacorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Wiesbaden"
+      }
+    ],
+    "id": "aquaemattiacorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Mursa"
+      }
+    ],
+    "id": "mursa"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Osijek"
+      }
+    ],
+    "id": "mursa"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Vindonissa"
+      }
+    ],
+    "id": "vindonissa"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Windisch"
+      }
+    ],
+    "id": "vindonissa"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Aventicum"
+      }
+    ],
+    "id": "aventicum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Avenches"
+      }
+    ],
+    "id": "aventicum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Praetorium"
+      },
+      {
+        "LOWER": "Agrippinae"
+      }
+    ],
+    "id": "praetoriumagrippinae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Valkenburg"
+      }
+    ],
+    "id": "praetoriumagrippinae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lopodunum"
+      }
+    ],
+    "id": "lopodunum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ladenburg"
+      }
+    ],
+    "id": "lopodunum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lugdunum"
+      },
+      {
+        "LOWER": "Batavorum"
+      }
+    ],
+    "id": "lugdunumbatavorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Katwijk"
+      }
+    ],
+    "id": "lugdunumbatavorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Aequum"
+      }
+    ],
+    "id": "aequum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "\u010citluk"
+      }
+    ],
+    "id": "aequum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Camulodunum"
+      }
+    ],
+    "id": "camulodunum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Colchester"
+      }
+    ],
+    "id": "camulodunum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Londinium"
+      }
+    ],
+    "id": "londinium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "London"
+      }
+    ],
+    "id": "londinium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Albanianis"
+      }
+    ],
+    "id": "albanianis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Alphen"
+      },
+      {
+        "LOWER": "aan"
+      },
+      {
+        "LOWER": "den"
+      },
+      {
+        "LOWER": "Rijn"
+      }
+    ],
+    "id": "albanianis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lauri"
+      }
+    ],
+    "id": "lauri"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Woerden"
+      }
+    ],
+    "id": "lauri"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Durovernum"
+      },
+      {
+        "LOWER": "Cantiacorum"
+      }
+    ],
+    "id": "durovernumcantiacorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Canterbury"
+      }
+    ],
+    "id": "durovernumcantiacorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Regulbium"
+      }
+    ],
+    "id": "regulbium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Reculver"
+      }
+    ],
+    "id": "regulbium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Rutupiae"
+      }
+    ],
+    "id": "rutupiae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Richborough"
+      }
+    ],
+    "id": "rutupiae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Novae"
+      }
+    ],
+    "id": "novae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Svishtov"
+      }
+    ],
+    "id": "novae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Colonia"
+      },
+      {
+        "LOWER": "Claudia"
+      },
+      {
+        "LOWER": "Savariensum"
+      }
+    ],
+    "id": "coloniaclaudiasavariensum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Szombathely"
+      }
+    ],
+    "id": "coloniaclaudiasavariensum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Viminacium"
+      }
+    ],
+    "id": "viminacium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Kostolac"
+      }
+    ],
+    "id": "viminacium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Traiectum"
+      }
+    ],
+    "id": "traiectum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Utrecht"
+      }
+    ],
+    "id": "traiectum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Matilo"
+      }
+    ],
+    "id": "matilo"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Leiden"
+      }
+    ],
+    "id": "matilo"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Forum"
+      },
+      {
+        "LOWER": "Hadriani"
+      }
+    ],
+    "id": "forumhadriani"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Voorburg"
+      }
+    ],
+    "id": "forumhadriani"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Nigrum"
+      },
+      {
+        "LOWER": "Pullum"
+      }
+    ],
+    "id": "nigrumpullum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Zwammerdam"
+      }
+    ],
+    "id": "nigrumpullum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lindum"
+      },
+      {
+        "LOWER": "Colonia"
+      }
+    ],
+    "id": "lindumcolonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lincoln"
+      }
+    ],
+    "id": "lindumcolonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ratae"
+      },
+      {
+        "LOWER": "Corieltauvorum"
+      }
+    ],
+    "id": "rataecorieltauvorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Leicester"
+      }
+    ],
+    "id": "rataecorieltauvorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Durocobrivis"
+      }
+    ],
+    "id": "durocobrivis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Dunstable"
+      }
+    ],
+    "id": "durocobrivis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Colonia"
+      },
+      {
+        "LOWER": "Agrippina"
+      }
+    ],
+    "id": "coloniaagrippina"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Cologne"
+      }
+    ],
+    "id": "coloniaagrippina"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Durocornovium"
+      }
+    ],
+    "id": "durocornovium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Swindon"
+      }
+    ],
+    "id": "durocornovium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Verulamium"
+      }
+    ],
+    "id": "verulamium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "St."
+      },
+      {
+        "LOWER": "Albans"
+      }
+    ],
+    "id": "verulamium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Letocetum"
+      }
+    ],
+    "id": "letocetum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Wall"
+      }
+    ],
+    "id": "letocetum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Dubris"
+      }
+    ],
+    "id": "dubris"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Dover"
+      }
+    ],
+    "id": "dubris"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Danum"
+      }
+    ],
+    "id": "danum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Doncaster"
+      }
+    ],
+    "id": "danum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Mediolanum"
+      }
+    ],
+    "id": "mediolanum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Whitchurch"
+      }
+    ],
+    "id": "mediolanum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Isca"
+      },
+      {
+        "LOWER": "Dumnoniorum"
+      }
+    ],
+    "id": "iscadumnoniorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Exeter"
+      }
+    ],
+    "id": "iscadumnoniorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Blestium"
+      }
+    ],
+    "id": "blestium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Monmouth"
+      }
+    ],
+    "id": "blestium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Viroconium"
+      },
+      {
+        "LOWER": "Cornoviorum"
+      }
+    ],
+    "id": "viroconiumcornoviorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Wroxeter"
+      }
+    ],
+    "id": "viroconiumcornoviorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Aquae"
+      },
+      {
+        "LOWER": "Sulis"
+      }
+    ],
+    "id": "aquaesulis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Bath"
+      }
+    ],
+    "id": "aquaesulis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Durnovaria"
+      }
+    ],
+    "id": "durnovaria"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Dorchester"
+      }
+    ],
+    "id": "durnovaria"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lindinis"
+      }
+    ],
+    "id": "lindinis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ilchester"
+      }
+    ],
+    "id": "lindinis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ad"
+      },
+      {
+        "LOWER": "Flexum"
+      }
+    ],
+    "id": "adflexum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Mosonmagyar\u00f3v\u00e1r"
+      }
+    ],
+    "id": "adflexum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Clausentum"
+      }
+    ],
+    "id": "clausentum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Southampton"
+      }
+    ],
+    "id": "clausentum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Venta"
+      },
+      {
+        "LOWER": "Belgarum"
+      }
+    ],
+    "id": "ventabelgarum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Winchester"
+      }
+    ],
+    "id": "ventabelgarum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Calleva"
+      },
+      {
+        "LOWER": "Atrebatum"
+      }
+    ],
+    "id": "callevaatrebatum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Silchester"
+      }
+    ],
+    "id": "callevaatrebatum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Duroliponte"
+      }
+    ],
+    "id": "duroliponte"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Cambridge"
+      }
+    ],
+    "id": "duroliponte"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Condate"
+      }
+    ],
+    "id": "condate"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Northwich"
+      }
+    ],
+    "id": "condate"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Corinium"
+      },
+      {
+        "LOWER": "Dobunnorum"
+      }
+    ],
+    "id": "coriniumdobunnorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Cirencester"
+      }
+    ],
+    "id": "coriniumdobunnorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Eboracum"
+      }
+    ],
+    "id": "eboracum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "York"
+      }
+    ],
+    "id": "eboracum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Luguvalium"
+      }
+    ],
+    "id": "luguvalium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Carlisle"
+      }
+    ],
+    "id": "luguvalium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Arae"
+      },
+      {
+        "LOWER": "Flaviae"
+      }
+    ],
+    "id": "araeflaviae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Rottweil"
+      }
+    ],
+    "id": "araeflaviae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Isca"
+      },
+      {
+        "LOWER": "Augusta"
+      }
+    ],
+    "id": "iscaaugusta"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Caerleon"
+      }
+    ],
+    "id": "iscaaugusta"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lagentium"
+      }
+    ],
+    "id": "lagentium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Castleford"
+      }
+    ],
+    "id": "lagentium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Moridunum"
+      }
+    ],
+    "id": "moridunum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Carmarthen"
+      }
+    ],
+    "id": "moridunum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Venta"
+      },
+      {
+        "LOWER": "Silurum"
+      }
+    ],
+    "id": "ventasilurum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Caerwent"
+      }
+    ],
+    "id": "ventasilurum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Deva"
+      },
+      {
+        "LOWER": "Victrix"
+      }
+    ],
+    "id": "devavictrix"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Chester"
+      }
+    ],
+    "id": "devavictrix"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Mamucium"
+      }
+    ],
+    "id": "mamucium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Manchester"
+      }
+    ],
+    "id": "mamucium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Olicana"
+      }
+    ],
+    "id": "olicana"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ilkley"
+      }
+    ],
+    "id": "olicana"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Vinovia"
+      }
+    ],
+    "id": "vinovia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Binchester"
+      }
+    ],
+    "id": "vinovia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Inveresk"
+      },
+      {
+        "LOWER": "Roman"
+      },
+      {
+        "LOWER": "Fort"
+      }
+    ],
+    "id": "invereskromanfort"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Musselburgh"
+      }
+    ],
+    "id": "invereskromanfort"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Coria"
+      }
+    ],
+    "id": "coria"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Corbridge"
+      }
+    ],
+    "id": "coria"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Gerulata"
+      }
+    ],
+    "id": "gerulata"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Bratislava"
+      }
+    ],
+    "id": "gerulata"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Vindobona"
+      }
+    ],
+    "id": "vindobona"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Vienna"
+      }
+    ],
+    "id": "vindobona"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Biriciana"
+      }
+    ],
+    "id": "biriciana"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Wei\u00dfenburg"
+      },
+      {
+        "LOWER": "in"
+      },
+      {
+        "LOWER": "Bayern"
+      }
+    ],
+    "id": "biriciana"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Cannstatt"
+      },
+      {
+        "LOWER": "Castrum"
+      }
+    ],
+    "id": "cannstattcastrum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Stuttgart"
+      }
+    ],
+    "id": "cannstattcastrum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Colonia"
+      },
+      {
+        "LOWER": "Nervia"
+      },
+      {
+        "LOWER": "Glevensium"
+      }
+    ],
+    "id": "colonianerviaglevensium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Gloucester"
+      }
+    ],
+    "id": "colonianerviaglevensium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Sumelocenna"
+      }
+    ],
+    "id": "sumelocenna"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Rottenburg"
+      },
+      {
+        "LOWER": "am"
+      },
+      {
+        "LOWER": "Neckar"
+      }
+    ],
+    "id": "sumelocenna"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Traiectum"
+      },
+      {
+        "LOWER": "ad"
+      },
+      {
+        "LOWER": "Nicrem"
+      }
+    ],
+    "id": "traiectumadnicrem"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Heidelberg"
+      }
+    ],
+    "id": "traiectumadnicrem"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Castra"
+      },
+      {
+        "LOWER": "Batavar"
+      }
+    ],
+    "id": "castrabatavar"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Passau"
+      }
+    ],
+    "id": "castrabatavar"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Nida"
+      }
+    ],
+    "id": "nida"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Frankfurt"
+      }
+    ],
+    "id": "nida"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lactodurum"
+      }
+    ],
+    "id": "lactodurum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Towcester"
+      }
+    ],
+    "id": "lactodurum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Bovium"
+      }
+    ],
+    "id": "bovium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Cowbridge"
+      }
+    ],
+    "id": "bovium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Burgodunum"
+      }
+    ],
+    "id": "burgodunum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Leeds"
+      }
+    ],
+    "id": "burgodunum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lentia"
+      }
+    ],
+    "id": "lentia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Linz"
+      }
+    ],
+    "id": "lentia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Aquae"
+      },
+      {
+        "LOWER": "Granni"
+      }
+    ],
+    "id": "aquaegranni"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Aachen"
+      }
+    ],
+    "id": "aquaegranni"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Portus"
+      },
+      {
+        "LOWER": "Victoriae"
+      },
+      {
+        "LOWER": "Iuliobrigensium"
+      }
+    ],
+    "id": "portusvictoriaeiuliobrigensium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Santander"
+      }
+    ],
+    "id": "portusvictoriaeiuliobrigensium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Complutum"
+      }
+    ],
+    "id": "complutum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Alcal\u00e1"
+      },
+      {
+        "LOWER": "de"
+      },
+      {
+        "LOWER": "Henares"
+      }
+    ],
+    "id": "complutum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Aeminium"
+      }
+    ],
+    "id": "aeminium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Coimbra"
+      }
+    ],
+    "id": "aeminium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Traiectum"
+      },
+      {
+        "LOWER": "ad"
+      },
+      {
+        "LOWER": "Mosam"
+      }
+    ],
+    "id": "traiectumadmosam"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Maastricht"
+      }
+    ],
+    "id": "traiectumadmosam"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Coriovallum"
+      }
+    ],
+    "id": "coriovallum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Heerlen"
+      }
+    ],
+    "id": "coriovallum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Portus"
+      },
+      {
+        "LOWER": "Lemanis"
+      }
+    ],
+    "id": "portuslemanis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Lympne"
+      }
+    ],
+    "id": "portuslemanis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Colonia"
+      },
+      {
+        "LOWER": "Pietas"
+      },
+      {
+        "LOWER": "Iulia"
+      },
+      {
+        "LOWER": "Pola"
+      },
+      {
+        "LOWER": "Pollentia"
+      },
+      {
+        "LOWER": "Herculanea"
+      }
+    ],
+    "id": "coloniapietasiuliapolapollentiaherculanea"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Pula"
+      }
+    ],
+    "id": "coloniapietasiuliapolapollentiaherculanea"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Andautonia"
+      }
+    ],
+    "id": "andautonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Zagreb"
+      }
+    ],
+    "id": "andautonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Salona"
+      }
+    ],
+    "id": "salona"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Solin"
+      }
+    ],
+    "id": "salona"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Cibalae"
+      }
+    ],
+    "id": "cibalae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Vinkovci"
+      }
+    ],
+    "id": "cibalae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Aquae"
+      },
+      {
+        "LOWER": "Helveticae"
+      }
+    ],
+    "id": "aquaehelveticae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Baden"
+      }
+    ],
+    "id": "aquaehelveticae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Storgosia"
+      }
+    ],
+    "id": "storgosia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Pleven"
+      }
+    ],
+    "id": "storgosia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Comagenis"
+      }
+    ],
+    "id": "comagenis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Tulln"
+      }
+    ],
+    "id": "comagenis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Nicopolis"
+      },
+      {
+        "LOWER": "ad"
+      },
+      {
+        "LOWER": "Istrum"
+      }
+    ],
+    "id": "nicopolisadistrum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Nikyup,"
+      },
+      {
+        "LOWER": "Veliko"
+      },
+      {
+        "LOWER": "Tarnovo"
+      }
+    ],
+    "id": "nicopolisadistrum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Aquincum"
+      }
+    ],
+    "id": "aquincum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Budapest"
+      }
+    ],
+    "id": "aquincum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Nicopolis"
+      },
+      {
+        "LOWER": "ad"
+      },
+      {
+        "LOWER": "Nestum"
+      }
+    ],
+    "id": "nicopolisadnestum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Garmen"
+      }
+    ],
+    "id": "nicopolisadnestum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Apulum"
+      }
+    ],
+    "id": "apulum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Alba"
+      },
+      {
+        "LOWER": "Iulia"
+      }
+    ],
+    "id": "apulum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Pons"
+      },
+      {
+        "LOWER": "Aelius"
+      }
+    ],
+    "id": "ponsaelius"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Newcastle"
+      },
+      {
+        "LOWER": "upon"
+      },
+      {
+        "LOWER": "Tyne"
+      }
+    ],
+    "id": "ponsaelius"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Durovigutum"
+      }
+    ],
+    "id": "durovigutum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Godmanchester"
+      }
+    ],
+    "id": "durovigutum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Hadrianopolis"
+      }
+    ],
+    "id": "hadrianopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Edirne"
+      }
+    ],
+    "id": "hadrianopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ala"
+      }
+    ],
+    "id": "ala"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Aalen"
+      }
+    ],
+    "id": "ala"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Castra"
+      },
+      {
+        "LOWER": "Regina"
+      }
+    ],
+    "id": "castraregina"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Regensburg"
+      }
+    ],
+    "id": "castraregina"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Theranda"
+      }
+    ],
+    "id": "theranda"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Prizren"
+      }
+    ],
+    "id": "theranda"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Pomaria"
+      }
+    ],
+    "id": "pomaria"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Tlemcen"
+      }
+    ],
+    "id": "pomaria"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Partiscum"
+      }
+    ],
+    "id": "partiscum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Szeged"
+      }
+    ],
+    "id": "partiscum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Calisia"
+      }
+    ],
+    "id": "calisia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Kalisz"
+      }
+    ],
+    "id": "calisia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Urbs"
+      },
+      {
+        "LOWER": "Aurelianorum"
+      }
+    ],
+    "id": "urbsaurelianorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Orl\u00e9ans"
+      }
+    ],
+    "id": "urbsaurelianorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Constantinopolis"
+      }
+    ],
+    "id": "constantinopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Istanbul"
+      }
+    ],
+    "id": "constantinopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Venetiae"
+      }
+    ],
+    "id": "venetiae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Venice"
+      }
+    ],
+    "id": "venetiae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ragusium"
+      }
+    ],
+    "id": "ragusium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Dubrovnik"
+      }
+    ],
+    "id": "ragusium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Pompeii"
+      }
+    ],
+    "id": "pompeii"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Pompei"
+      }
+    ],
+    "id": "pompeii"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Capua"
+      }
+    ],
+    "id": "capua"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Capua"
+      }
+    ],
+    "id": "capua"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Thessalonica"
+      }
+    ],
+    "id": "thessalonica"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Thessaloniki"
+      }
+    ],
+    "id": "thessalonica"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Volubilis"
+      }
+    ],
+    "id": "volubilis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Meknes"
+      }
+    ],
+    "id": "volubilis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Sopianae"
+      }
+    ],
+    "id": "sopianae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "P\u00e9cs"
+      }
+    ],
+    "id": "sopianae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Arrabona"
+      }
+    ],
+    "id": "arrabona"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Gy\u0151r"
+      }
+    ],
+    "id": "arrabona"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Scarbantia"
+      }
+    ],
+    "id": "scarbantia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Sopron"
+      }
+    ],
+    "id": "scarbantia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Barium"
+      }
+    ],
+    "id": "barium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Bari"
+      }
+    ],
+    "id": "barium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Antiochia"
+      }
+    ],
+    "id": "antiochia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Antakya"
+      }
+    ],
+    "id": "antiochia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Asculum"
+      }
+    ],
+    "id": "asculum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ascoli"
+      },
+      {
+        "LOWER": "Piceno"
+      }
+    ],
+    "id": "asculum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Dyrrachium"
+      }
+    ],
+    "id": "dyrrachium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Durr\u00ebs"
+      }
+    ],
+    "id": "dyrrachium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Brixia"
+      }
+    ],
+    "id": "brixia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Brescia"
+      }
+    ],
+    "id": "brixia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Mediolanum"
+      }
+    ],
+    "id": "mediolanum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Milan"
+      }
+    ],
+    "id": "mediolanum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Comum"
+      }
+    ],
+    "id": "comum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Como"
+      }
+    ],
+    "id": "comum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Colonia"
+      },
+      {
+        "LOWER": "Augusta"
+      },
+      {
+        "LOWER": "Achaica"
+      },
+      {
+        "LOWER": "Patrensis"
+      }
+    ],
+    "id": "coloniaaugustaachaicapatrensis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Patras"
+      }
+    ],
+    "id": "coloniaaugustaachaicapatrensis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Tingi"
+      }
+    ],
+    "id": "tingi"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Tangier"
+      }
+    ],
+    "id": "tingi"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Attalia"
+      }
+    ],
+    "id": "attalia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Antalya"
+      }
+    ],
+    "id": "attalia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Patavium"
+      }
+    ],
+    "id": "patavium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Padua"
+      }
+    ],
+    "id": "patavium"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Spalatum"
+      }
+    ],
+    "id": "spalatum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Split"
+      }
+    ],
+    "id": "spalatum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Nicomedia"
+      }
+    ],
+    "id": "nicomedia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "\u0130zmit"
+      }
+    ],
+    "id": "nicomedia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Nicaea"
+      }
+    ],
+    "id": "nicaea"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "\u0130znik"
+      }
+    ],
+    "id": "nicaea"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Tarsus"
+      }
+    ],
+    "id": "tarsus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Tarsus"
+      }
+    ],
+    "id": "tarsus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Berytus"
+      }
+    ],
+    "id": "berytus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Beirut"
+      }
+    ],
+    "id": "berytus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ulpia"
+      },
+      {
+        "LOWER": "Serdica"
+      }
+    ],
+    "id": "ulpiaserdica"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Sofia"
+      }
+    ],
+    "id": "ulpiaserdica"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Poetovio"
+      }
+    ],
+    "id": "poetovio"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ptuj"
+      }
+    ],
+    "id": "poetovio"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Neviodunum"
+      }
+    ],
+    "id": "neviodunum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Drnovo"
+      }
+    ],
+    "id": "neviodunum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Celeia"
+      }
+    ],
+    "id": "celeia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Celje"
+      }
+    ],
+    "id": "celeia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Nauportus"
+      }
+    ],
+    "id": "nauportus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Vrhnika"
+      }
+    ],
+    "id": "nauportus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Solva"
+      }
+    ],
+    "id": "solva"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Esztergom"
+      }
+    ],
+    "id": "solva"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Odessos"
+      }
+    ],
+    "id": "odessos"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Varna"
+      }
+    ],
+    "id": "odessos"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Colonia"
+      },
+      {
+        "LOWER": "Claudia"
+      },
+      {
+        "LOWER": "Caesarea"
+      }
+    ],
+    "id": "coloniaclaudiacaesarea"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Cherchell"
+      }
+    ],
+    "id": "coloniaclaudiacaesarea"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Aquae"
+      },
+      {
+        "LOWER": "Calidae"
+      }
+    ],
+    "id": "aquaecalidae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Burgas"
+      }
+    ],
+    "id": "aquaecalidae"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Develtos"
+      }
+    ],
+    "id": "develtos"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Debelt,"
+      },
+      {
+        "LOWER": "Burgas"
+      }
+    ],
+    "id": "develtos"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Philippopolis"
+      }
+    ],
+    "id": "philippopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Plovdiv"
+      }
+    ],
+    "id": "philippopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ulpia"
+      },
+      {
+        "LOWER": "Augusta"
+      },
+      {
+        "LOWER": "Traiana"
+      }
+    ],
+    "id": "ulpiaaugustatraiana"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Stara"
+      },
+      {
+        "LOWER": "Zagora"
+      }
+    ],
+    "id": "ulpiaaugustatraiana"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Diocletianopolis"
+      }
+    ],
+    "id": "diocletianopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Hisarya"
+      }
+    ],
+    "id": "diocletianopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Trapezus"
+      }
+    ],
+    "id": "trapezus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Trabzon"
+      }
+    ],
+    "id": "trapezus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Sexaginta"
+      },
+      {
+        "LOWER": "Prista"
+      }
+    ],
+    "id": "sexagintaprista"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Ruse"
+      }
+    ],
+    "id": "sexagintaprista"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Abritus"
+      }
+    ],
+    "id": "abritus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Razgrad"
+      }
+    ],
+    "id": "abritus"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Marcianopolis"
+      }
+    ],
+    "id": "marcianopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Devnya"
+      }
+    ],
+    "id": "marcianopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Durostorum"
+      }
+    ],
+    "id": "durostorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Silistra"
+      }
+    ],
+    "id": "durostorum"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Pautalia"
+      }
+    ],
+    "id": "pautalia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Kyustendil"
+      }
+    ],
+    "id": "pautalia"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Artaxata"
+      }
+    ],
+    "id": "artaxata"
+  },
+  {
+    "label": "GPE",
+    "pattern": [
+      {
+        "LOWER": "Artashat"
+      }
+    ],
+    "id": "artaxata"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Abdera"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Abila"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Abydos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Acanthus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Acharnae"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Actium"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Adramyttium"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Aegae"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Aegina"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Aegium"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Aenus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Agrinion"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Aigosthena"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Akrai"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Akrillai"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Akroinon"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Alalcomenae"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Alalia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Alexandretta"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Alexandria Arachosia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Alexandria Ariana"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Alexandria Asiana"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Alexandria Bucephalous"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Alexandria in the Caucasus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Alexandria Eschate"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Alexandria on the Indus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Alexandria on the Oxus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Alexandria Troas"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Alinda"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Amarynthos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Amaseia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Ambracia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Amida"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Amisos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Amnisos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Amphicaea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Amphigeneia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Amphipolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Amphissa"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Antigonea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Antipatrea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Antioch on the Maeander"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Antioch on the Orontes"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Antiochia ad Taurum"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Andros"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apamea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apamea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apamea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apamea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apamea Myrlea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apamea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apamea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apamea Ragiana"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Aphidnae"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apollonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apollonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apollonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apollonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apollonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apollonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apollonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apollonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apollonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apollonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apollonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apollonia ad Rhyndacum"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apollonia Pontica"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Apsaros"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Argos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Arsuf"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Artanes"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Artemita"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Argyroupoli"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Asine"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Asine"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Asine"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Asine"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Asklepios"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Aspendos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Assus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Astacus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Athenai"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Athmonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Aulon"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Aytos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Baris"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Bhrytos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Borysthenes"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Berge"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Boura"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Brauron"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Byblos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Byzantium"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Bythinion"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Callipolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Calydon"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Caphyae"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Carystus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Cebrene"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Celenderis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Chalcedon"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Chalcis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Chamaizi"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Chersonesos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Chimaira"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Chios"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Chytri"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Clazomenae"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Cleonae"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Cnidus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Colosse"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Corcyra"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Corcyra Melaena"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Croton"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Cyme"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Cyrene"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Cythera"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Delos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Delphi"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Demetrias"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Dicaearchia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Didyma"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Dion"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Dioscurias"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Dodona"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Dorylaion"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Dyme"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Edessa"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Edessa"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Elateia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Eleusis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Eleutherna"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Emporion"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Ephesus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Ephyra"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Epidamnos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Epidauros"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Eresos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Eretria"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Erythrae"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Eubea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Gangra"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Gaza"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Gela"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Golgi\u00a0[el]"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Gonnos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Gorgippia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Gournia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Gortyn"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Gythium"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Hagios Onouphrios"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Hagia Triada"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Halicarnassus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Halieis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Helike"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Heliopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Hellespontos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Helorus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "H\u0113meroskopeion"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Heraclea Perinthus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Heraclea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Heraclea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Heraclea by Latmus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Heraclea Cybistra"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Heraclea Lyncestis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Heraclea Minoa"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Heraclea Pontica"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Heraclea Sintica"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Heraclea Trachis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Hermione"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Hermonassa"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Hierapetra"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Hierapolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Himera"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Histria"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Hubla Minor"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Hubla Gereatis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Hubla Heraea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Hyele"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Ialysos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Iasus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Idalium"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Imbros"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Iolcus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Issa"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Itanos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Ithaca"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Juktas"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kaiete"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kallipolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kallipolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kallipolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kamares"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kameiros"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kannia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kamarina"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kasmenai"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Katane"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kerkinitida"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kepoi"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kimmerikon"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kios"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Klazomenai"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Knidos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Knossos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Korinthos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kourion"
+  },
+  {
+    "label": "GPE",
+    "pattern": "K\u00fam\u0113"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kydonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kynos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Kyrenia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Lamia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Lampsacus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Laodicea in Syria"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Laodicea on the Lycus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Laodicea in Media"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Laodicea Combusta"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Laodicea ad Libanum"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Laodicea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Laodicea Pontica"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Laodicea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Laodicea in Phoenicia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Lapithos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Larissa"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Larissa"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Lato"
+  },
+  {
+    "label": "GPE",
+    "pattern": "La\u00fcs"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Lebena"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Lefkada"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Lekhaion"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Leibethra"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Leontinoi"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Lepreum"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Lessa"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Lilaea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Lindus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Lissus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Epizephyrian Locris"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Madytos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Magnesia on the Maeander"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Magnesia ad Sipylum"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Mallia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Mantineia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Marathon"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Marmara"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Maroneia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Masis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Massalia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Megalopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Megara"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Megara Hublaea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Mesembria"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Messene"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Metapontum"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Methana"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Methone"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Methumna"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Miletos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Misenum"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Mochlos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Monastiraki"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Morgantina"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Mulai"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Mukenai"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Mylasa"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Myndus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Myonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Myra"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Myrmekion"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Mutilene"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Myos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Naupl\u00edos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Naucratis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Naupactus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Naxos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Naxos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Neapoli"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Neapolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Neapolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Neapolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Neapolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Nemea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Nicaea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Nicaea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Nicopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Nirou Hani"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Nymphaion"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Nymphaion"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Nysa"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Oenoe"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Oenoe"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Oenus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Odessos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Odessos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Olbia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Olbia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Olous"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Olympia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Olynthus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Opus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Oricos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Orestias"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Oreus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Oropus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Onchesmos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pactye"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pagasae"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Palaikastro"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pandosia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pandosia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pandosia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Panticapaeum"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Paphos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Parium"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Paros"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Parthenope"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Patrae"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pavlopetri"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pegai"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Peiraie\u00fas"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pella"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Percote"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Perga"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pergamum"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Petsofas"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Phaistos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Ph\u00e1l\u0113ron"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Phanagoria"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pharae"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pharnacia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pharos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Phaselis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Phasis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Philippi"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pithekussa"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Philippopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Platanos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Phlius"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pherae"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Phocaea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Phoenice"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pinara"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pisa"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pitane"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pitiunt"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pixous"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Plataea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Poseidonia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Potidaea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Priapus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Priene"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Prousa"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pseira"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Psychro"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pteleum"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pydna"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pylos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pyrgos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Pyrgos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Rhamnus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Rhithymna"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Rhode"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Rhodes"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Rizinia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Salamis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Samos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Scyllaeum"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Selinus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Semasus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Sestos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Side"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Sidon"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Siteia"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Sklavokampos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Smyrna"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Soli"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Sozopolis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Sparta"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Stagirus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Stratos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Stymphalos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Sybaris"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Syrakousai"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Tanagra"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Tanais"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Tegea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Temnos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Tenedos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Tenea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Thapsos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Thebai"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Therma"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Thespiae"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Thronium"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Thoricus"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Thyreum"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Thyria"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Tiruns"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Tithoraea"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Tomis"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Tragurion"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Trapeze"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Troliton"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Troy"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Tylissos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Tyras"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Tyros"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Vasiliki"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Vathypetros"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Zakynthos"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Zakros"
+  },
+  {
+    "label": "GPE",
+    "pattern": "Zankle"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Phanerozoic"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Proterozoic"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Archean"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Hadean"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Cenozoic"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Mesozoic"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Paleozoic"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Neoproterozoic"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Mesoproterozoic"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Paleoproterozoic"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Neoarchean"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Mesoarchean"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Paleoarchean"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Eoarchean"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Quaternary"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Neogene"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Paleogene"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Cretaceous"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Jurassic"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Triassic"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Permian"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Carboniferous"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Devonian"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Silurian"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Ordovician"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Cambrian"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Ediacaran"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Cryogenian"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Tonian"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Stenian"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Ectasian"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Calymmian"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Statherian"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Orosirian"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Rhyacian"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Siderian"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Holocene"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Pleistocene"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Pliocene"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Miocene"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Oligocene"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Eocene"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Paleocene"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Paleolithic"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Mesolithic"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Neolithic"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Bronze Age"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Iron Age"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Protohistory"
+  },
+  {
+    "label": "DATE",
+    "pattern": "Middle Age"
+  }
+]
