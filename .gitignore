@@ -6,3 +6,6 @@ evaluation/test_pdf_annotation/
 models/*
 !models/README.md
 /evaluation/test_pdf_annotation/
+EntityExtractor/output/*
+EntityExtractor/__pycache__
+EntityExtractor/module/__pycache__
