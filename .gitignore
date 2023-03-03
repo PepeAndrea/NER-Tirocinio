@@ -4,5 +4,5 @@ notebooks/PDFtotext_module.ipynb
 notebooks/learnNumpy.ipynb
 evaluation/test_pdf_annotation/
 models/*
-/models/TirocinioModelRefined/
+!models/README.md
 /evaluation/test_pdf_annotation/
